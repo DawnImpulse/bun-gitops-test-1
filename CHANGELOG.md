@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/DawnImpulse/bun-gitops-test-1/compare/v1.0.0...v1.1.0) (2026-01-22)
+
+
+### Features
+
+* Rename root path to `/random` and add new root path returning "WORKING". ([e7a8e7d](https://github.com/DawnImpulse/bun-gitops-test-1/commit/e7a8e7dab443424b89a68e97316dc7b863ebc09c))
+
 # 1.0.0 (2026-01-22)
 
 
